@@ -1,5 +1,8 @@
 Forked from https://github.com/yungnickyoung/Java-Cheatsheet  
 <!-- git init; git add .; git commit -m "first commit"; git branch -M main; git remote add origin https://github.com/ankitT20/Java-Cheatsheet.git; git push -u origin main; -->
+<!-- 
+c:; cd 'c:\Users\ANKIT\Documents\VScode\Java-Cheatsheet'; git add .; git commit -a -m "additional commit"; git push -u origin main;
+ -->
 
 ## Table of Contents
 - [Scope of Variables](#scope-of-variables)
